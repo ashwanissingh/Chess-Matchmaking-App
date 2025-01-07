@@ -35,3 +35,6 @@ Future Enhancements:-
    3. Include time-based game modes (e.g., Blitz, Bullet).
    4. Improve UI/UX for a more polished user experience.
    5. Add game history and replay features.
+ 
+LICENSE:-
+   This project is licensed under the MIT License.
