@@ -7,6 +7,7 @@ Features
 ⚡ Fast and efficient real-time updates using Socket.IO.
 ♟️ Valid chess moves and game logic handled by Chess.js.
 📜 Clean and modular code structure for better scalability.
+![image alt](https://github.com/ashwanissingh/Chess-Matchmaking-App/blob/f8c318a63858ce3bfa3b75715b4a573c0a76a16b/Screenshot%202025-03-19%20162735.png)
 Technologies Used
 Languages:
 
