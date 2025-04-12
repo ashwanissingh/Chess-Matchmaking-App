@@ -58,7 +58,6 @@ uniquesocket.on("move",(move)=>{
             uniquesocket.emit("invalidMove",move);
         }
     } catch (err) {
-        console.log(err);
         uniquesocket.emit("invalid move:",move);
     }
 })
