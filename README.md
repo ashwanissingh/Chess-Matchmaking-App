@@ -1,4 +1,4 @@
-Real-Time Chess Clone
+Real-Time Chess 
 A real-time chess application inspired by Chess.com, built using Express.js, Chess.js, and Socket.IO for real-time gameplay scenarios. The project was created by learning through tutorials and documentation, gaining hands-on experience with server-side data handling and real-time communication.
 
 Features
